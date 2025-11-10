@@ -333,9 +333,9 @@ figcaption {
   align-items: center;
   border-style: solid;
   border-width: 0.125rem;
-  border-color: #232ed1;
+  border-color: #25D366;
   border-radius: 0.5rem;
-  background-color: #232ed1;
+  background-color: #25D366;
   -webkit-transition: border-color 250ms ease, background-color 250ms ease;
   transition: border-color 250ms ease, background-color 250ms ease;
   color: #fff;
@@ -367,9 +367,9 @@ figcaption {
 
 .button.is-text {
   border-style: none;
-  border-color: #232ed1;
+  border-color: #25D366;
   background-color: transparent;
-  color: #232ed1;
+  color: #25D366;
 }
 
 .button.is-icon {
@@ -560,11 +560,11 @@ figcaption {
 }
 
 .nav_link:hover {
-  color: #232ed1;
+  color: #25D366;
 }
 
 .nav_link.w--current {
-  color: #232ed1;
+  color: #25D366;
 }
 
 .nav_logo-link {
@@ -629,7 +629,7 @@ figcaption {
   flex: 0 0 auto;
   border-style: solid;
   border-width: 0.125rem;
-  border-color: #9499dd;
+  border-color: #000;
   border-radius: 0.4rem;
   background-color: transparent;
   -webkit-transition: border-color 250ms ease;
@@ -638,7 +638,7 @@ figcaption {
 }
 
 .nav_button:hover {
-  border-color: #232ed1;
+  border-color: #25D366;
 }
 
 .home_header_component {
@@ -700,7 +700,7 @@ figcaption {
   width: 14rem;
   height: 16rem;
   border-bottom-right-radius: 4rem;
-  background-color: #232ed1;
+  background-color: #25D366;;
 }
 
 .home_header_small-shape {
@@ -779,7 +779,7 @@ figcaption {
 }
 
 .text-color-blue {
-  color: #232ed1;
+  color: #25D366;
 }
 
 .text-color-orange {
@@ -816,7 +816,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-top-left-radius: 0.75rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .text-color-white {
@@ -1055,7 +1055,7 @@ figcaption {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .footer_cta_component {
@@ -1092,7 +1092,7 @@ figcaption {
   width: 1rem;
   height: 1rem;
   border-bottom-right-radius: 0.375rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .footer_form-row {
@@ -1149,6 +1149,7 @@ figcaption {
   margin-top: 1.5rem;
   -webkit-transition: color 250ms ease;
   transition: color 250ms ease;
+  color: #000;
 }
 
 .footer_link:hover {
@@ -1268,7 +1269,7 @@ figcaption {
   width: 3rem;
   height: 3rem;
   border-bottom-left-radius: 0.375rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .product_header_small-image-wrapper {
@@ -1370,7 +1371,7 @@ figcaption {
   width: 3rem;
   height: 3rem;
   border-bottom-left-radius: 1rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .section_pricing-header {
@@ -1458,7 +1459,7 @@ figcaption {
 .pricing_checkmark {
   height: 1rem;
   margin-right: 1rem;
-  color: #232ed1;
+  color: #25D366;
   line-height: 0;
 }
 
@@ -1471,18 +1472,18 @@ figcaption {
   padding: 0.875rem 0rem;
   border-style: solid;
   border-width: 0.125rem;
-  border-color: #232ed1;
+  border-color: #25D366;
   border-radius: 0.4rem;
   background-color: transparent;
   -webkit-transition: background-color 250ms ease, color 250ms ease;
   transition: background-color 250ms ease, color 250ms ease;
-  color: #232ed1;
+  color: #25D366;
   font-size: 1.25rem;
   text-align: center;
 }
 
 .pricing_button:hover {
-  background-color: #232ed1;
+  background-color: #25D366;
   color: #fff;
 }
 
@@ -1528,7 +1529,7 @@ figcaption {
   width: 7rem;
   height: 8rem;
   border-bottom-right-radius: 1rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .about_header_top-shapes {
@@ -1583,7 +1584,7 @@ figcaption {
   margin-right: 3rem;
   margin-bottom: 1em;
   border-bottom-right-radius: 1.5rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .about_shape-bottom {
@@ -1659,7 +1660,7 @@ figcaption {
   width: 2.5rem;
   height: 2.5rem;
   border-bottom-right-radius: 1rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .testimonials_star {
@@ -1701,7 +1702,7 @@ figcaption {
   align-items: center;
   border-top-right-radius: 0.75rem;
   border-bottom-left-radius: 0.75rem;
-  background-color: #232ed1;
+  background-color: #25D366;
   text-align: left;
 }
 
@@ -1802,7 +1803,7 @@ figcaption {
   width: 5rem;
   height: 6rem;
   border-top-left-radius: 1rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .utility_form {
@@ -1870,7 +1871,7 @@ figcaption {
   width: 1.5rem;
   height: 1.5rem;
   border-bottom-right-radius: 0.5rem;
-  background-color: #232ed1;
+  background-color: #25D366;
 }
 
 .blog_image {
@@ -2582,7 +2583,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #232ed1;
+  background-color: #25D366;
   color: #fff;
   line-height: 1.4;
   font-weight: 500;
@@ -3340,6 +3341,7 @@ figcaption {
     display: flex;
     margin-top: 1rem;
     margin-left: 1rem;
+    color: #000;
   }
 
   .about_image {
@@ -4837,4 +4839,50 @@ figcaption {
     100% {
         box-shadow: 0 0 0 0 rgba(37, 211, 102, 0);
     }
+}
+
+/* Updated Social Media Icons for Image-based Approach */
+.social_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+}
+
+.social_icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.social_ilnk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: transparent;
+    transition: all 0.3s ease;
+    color: #5b5b5b;
+}
+
+.social_ilnk:hover {
+    background-color: rgba(35, 46, 209, 0.1);
+    color: #0d1317;
+}
+
+.social_ilnk:hover .social_icon img {
+    transform: scale(1.1);
+}
+
+/* Remove the embedded SVG styles since we're using images */
+.social_icon .w-embed {
+    display: none;
+}
+
+.social_icon .w-embed svg {
+    display: none;
 }
