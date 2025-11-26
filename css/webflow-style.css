@@ -788,8 +788,8 @@ figcaption {
 
 .section_home-team {
   position: relative;
-  min-height: 40rem;
-  margin-bottom: 10rem;
+  min-height: 70rem;
+  margin-bottom: 15rem;
   background-image: url("../images/happy-20girl-20typing.jpg");
   background-position: 50% 10%;
   background-size: cover;
